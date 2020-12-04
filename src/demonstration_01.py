@@ -16,5 +16,4 @@ Notes:
 
 
 def last(a, n):
-    # Your code here
-
+    
